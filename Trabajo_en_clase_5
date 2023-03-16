@@ -1,0 +1,13 @@
+#include<iostream>
+using.namespace.std;
+int main()
+{
+	float a, b, c, d , e, x, y, z;
+	cin >>a>>x>>b>>y;
+	z=x*y
+	c=(z/x)*a
+	d=(z/y)*b
+	e=c+d
+	cout <<e,'/',z>>
+	return (0)
+}
